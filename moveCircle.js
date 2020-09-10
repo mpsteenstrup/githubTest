@@ -8,7 +8,7 @@ y = 200;
 function draw() {
 	background(0);
 	fill(200,200,0);
-	ellipse(x,y,200,200);
+	ellipse(x,y,300,200);
 
 
 
